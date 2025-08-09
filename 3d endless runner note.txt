@@ -50,6 +50,7 @@ Test the game with WASD/Arrow keys for movement and Space for jumping
 Controls:
 WASD or Arrow Keys - Move left/right between lanes
 Space - Jump
+
 Escape - Pause game
 Next Steps:
 Add your own 3D models for obstacles and collectibles
